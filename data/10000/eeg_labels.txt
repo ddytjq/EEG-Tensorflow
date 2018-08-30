@@ -1,7 +1,0 @@
-alpha
-delta
-gamma
-high beta
-low beta
-smr
-theta
