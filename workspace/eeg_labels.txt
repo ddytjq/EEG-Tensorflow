@@ -1,0 +1,7 @@
+theta
+smr
+low beta
+high beta
+gamma
+delta
+alpha
