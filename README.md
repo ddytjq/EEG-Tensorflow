@@ -1,10 +1,13 @@
-## EEG-Tensorflow
+# EEG-Tensorflow
 
-* EEG image matching file using inception
-* eeg.ipynb : Used colab's virtual gpu computer
-* https://steemit.com/kr/@deep-root/research-tips-colaboratory-colab
+## 1. 환경설정
+* Language : python 3.6.5
+* Tool : Google Colab
 
-#### Screenshot
-* result
+## 2. 시나리오
+1. 모집단의 EEG image , 구글의 Inception 모듈을 사용
+2. 7개의 class로 분류 및 class의 합이 1이 나오게 변경
+3. 가장 높은 수치를 가진 class가 현재의 상태
 
+## 3. 결과
 ![image](./workspace/result.jpg)
